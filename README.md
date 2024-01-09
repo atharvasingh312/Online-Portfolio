@@ -5,7 +5,7 @@ Welcome to my online portfolio! The portfolio showcases my skills, projects, and
 
 ## Demo
 
-![portfolio Demo]()
+![portfolio Demo](static/gitimg.jpg)
 
 <p style="text-align: center;"> 
 <bold>The project is live on github :</bold> https://atharvasingh312.github.io/Online-Portfolio/
