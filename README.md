@@ -8,5 +8,5 @@ Welcome to my online portfolio! The portfolio showcases my skills, projects, and
 ![portfolio Demo]()
 
 <p style="text-align: center;"> 
-**The project is live on github :** https://atharvasingh312.github.io/Online-Portfolio/
+<bold>The project is live on github :</bold> https://atharvasingh312.github.io/Online-Portfolio/
 </p>
